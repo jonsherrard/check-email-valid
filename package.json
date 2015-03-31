@@ -1,0 +1,24 @@
+{
+  "name": "check-email-valid",
+  "version": "1.0.0",
+  "description": "Check an email is valid. The most comprehensive check available on npm. Returns true or false",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonsherrard/check-email-valid.git"
+  },
+  "keywords": [
+    "email",
+    "check",
+    "valid"
+  ],
+  "author": "Jon Sherrard <jon.sherrard@shortlist.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonsherrard/check-email-valid/issues"
+  },
+  "homepage": "https://github.com/jonsherrard/check-email-valid"
+}
